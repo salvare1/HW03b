@@ -1,5 +1,5 @@
 # Spring26
 
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/salvare1/hw03b/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/salvare1/hw03b/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/salvare1/Spring26/tree/HW03c_Mocking.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/salvare1/Spring26/tree/HW03c_Mocking)
 
 Homework repository for SSW 567
